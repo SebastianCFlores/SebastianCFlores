@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @SebastianCFlores, student of Software Engineering at Universidad Nacional Mayor de San Marcos.
-- 👀 I’m interested in learning an practicing coding, also software design and architecture.
-- 🌱 I’m currently learning web developing.
-- 📫 How to reach me sebas09122@hotmail.com.
+
